@@ -1,0 +1,12 @@
+---
+:id: 27459027
+:submitters:
+- :name: Tarush Gupta
+  :email: tgupta22@uic.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-01-23 01:08:37.047576000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-01-22 17:08:37.047576000 Z
+:status: processed
+:score: 20.0
